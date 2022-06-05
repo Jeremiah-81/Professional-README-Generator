@@ -15,7 +15,7 @@ function generateMarkdown(data) {
   return `# ${data.title} 
   ## Description
   - ${data.description}
-  ## Description
+  ## Screenshots
   - ${data.description}
   ## Tech/Framework
   - ${data.description}
