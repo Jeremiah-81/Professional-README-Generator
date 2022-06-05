@@ -17,7 +17,12 @@ const questions = [
   {
     type: "input",
     name: "emailAddress",
-    message: "What is your job email address?",
+    message: "What is your email address?",
+  },
+  {
+    type: "input",
+    name: "title",
+    message: "What is the title of your repository?",
   },
   {
     type: "input",
@@ -40,21 +45,22 @@ const questions = [
     message: "What is this application used for?",
   },
   {
-    type: "checkbox",
+    type: "list",
     name: "license",
     message: "Choose a licence for free.",
     choices: [
       "Apache License 2.0",
       "GNU General Public License v3.0",
       "MIT License",
-      'BSD 2-Clause "Simplified" License',
-      'BSD 3-Clause "New" or "Revised" License',
+      "BSD 2-Clause Simplified License",
+      "BSD 3-Clause New or Revised License",
       "Boost Software License 1.0",
       "Creative Commons Zero v1.0 Universal",
       "Eclipse Public License 2.0",
       "GNU Affero General Public License v3.0",
       "GNU General Public License v2.0",
       "GNU Lesser General Public License v2.1",
+      "None"
     ],
   },
   {
@@ -65,21 +71,27 @@ const questions = [
   {
     type: "input",
     name: "tests",
-    message: "Can we run some tests?",
+    message: "Can we run some tests?",     
   },
   {
     type: "input",
     name: "questions",
-    message: "Leave contact information if there are any questions.  ",
+    message: "You can contact me if you have any questions.  [https://github.com/Jeremiah-81/Professional-README-Generator]",
   },
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+  fs.writeFile(fileName, generateMarkdown(data), (err) =>
+  err ? console.error(err) : console.log('Too Victory!')
+);
+};
+
 
 // TODO: Create a function to initialize app
 function init() {
   inquirer.prompt(questions).then((data) => {
+    console.log(data);
     const markdown = generateMarkdown(data);
     fs.writeFile("README.MD", markdown, (err) => {
       if (err) {
