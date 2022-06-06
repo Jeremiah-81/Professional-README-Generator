@@ -60,3 +60,31 @@ traveler.init (
 );
 
 module.exports = traveler;
+
+
+  ## Table of Contents:
+  -[Description](#Description)
+  -[Installation](#Installation)
+  -[Usage](#Usage)
+  -[License](#License)
+  -[Contributing](#Contributing)
+  -[tests](#tests)
+  -[Questions](#Questions)
+
+  ## Installation:
+  - ${data.installation}
+
+  ## Usage:
+  - ${data.usage}
+
+  ## License:
+  - ${data.license}
+
+  ## Contributing:
+  - ${data.contributing}
+
+  ## Tests:
+  - ${data.tests}
+
+  ## Questions:
+  - ${data.questions}
