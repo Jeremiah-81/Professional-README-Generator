@@ -8,7 +8,7 @@ With the ever growing industries things can get confusing trying to keep up with
 
 ## Screenshot
 
-https://raw.githubusercontent.com/Jeremiah-81/Team-Profile-Generator/main/10-object-oriented-programming-homework-demo.png
+
 
 ## Tech/Framework
 
