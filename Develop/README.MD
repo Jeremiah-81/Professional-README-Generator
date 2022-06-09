@@ -1,8 +1,8 @@
-#  Professional ReadME.md Generator 
+# Jeremiah-81 
 
 
   ## Description
-  -  A how to guide for writing a professional document.
+  - A how to on creating a professional read me.
 
 
   ## Table of Contents:
@@ -15,7 +15,7 @@
   -[Questions](#Questions)
 
   ## Installation:
-  - type node index.js inside the terminal
+  -  Inside the terminal type: node index.js
 
   ## Usage:
   - undefined
@@ -27,7 +27,7 @@
   - undefined
 
   ## Tests:
-  - yes
+  - Yes
 
   ## Questions:
-  - 
+  - https://github.com/Jeremiah-81/Professional-README-Generator

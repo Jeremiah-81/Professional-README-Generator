@@ -24,3 +24,15 @@ You can look up a singel employee or an entire department based on what your loo
 
 
 ## This README was generated with ❤️ by: 
+
+Jeremiah
+Brockett
+terracottaarmy81@gmail.com
+Professional README Generator
+Jeremiah-81
+ A how to on creating a professional read me.
+ Inside the terminal type: node index.js
+  Creating Professional README.md documents.
+  Create a branch and submit a pull request from gitHub.
+
+ 

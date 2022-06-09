@@ -74,9 +74,13 @@ const questions = [
     message: "Can we run some tests?",     
   },
   {
-    type: "input",
+    type: "list",
     name: "questions",
-    message: "You can contact me if you have any questions.  [https://github.com/Jeremiah-81/Professional-README-Generator]",
+    message: "Contact me if you have any questions.",
+    choices: [
+      "https://github.com/Jeremiah-81/Professional-README-Generator",
+      "None"
+    ],
   },
 ];
 
@@ -104,3 +108,6 @@ function init() {
 
 // Function call to initialize app
 init();
+
+
+//  [https://github.com/Jeremiah-81/Professional-README-Generator]", 
