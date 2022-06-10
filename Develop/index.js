@@ -108,6 +108,3 @@ function init() {
 
 // Function call to initialize app
 init();
-
-
-//  [https://github.com/Jeremiah-81/Professional-README-Generator]", 
