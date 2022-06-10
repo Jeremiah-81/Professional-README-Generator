@@ -24,7 +24,7 @@ You can look up a singel employee or an entire department based on what your loo
 
 https://www.makeareadme.com/
 
-## This README was generated with ❤️ by:
+## This README was generated with ❤️ by: Jeremiah Brockett
 
 <!-- ------------command line responses------------- -->
 <!-- Jeremiah

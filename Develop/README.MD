@@ -15,19 +15,19 @@
   -[Questions](#Questions)
 
   ## Installation:
-  -  Inside the terminal type: node index.js
+  - Inside the terminal type: node index.js
 
-  ## Usage:
-  - undefined
+  ## usage:
+  - Creating Professional README.md documents.
 
   ## License:
   - MIT License
 
   ## Contributing:
-  - undefined
+  - Create a branch and submit a pull request from gitHub.
 
   ## Tests:
-  - Yes
+  - Run this inside the terminal: node index.js
 
   ## Questions:
   - https://github.com/Jeremiah-81/Professional-README-Generator

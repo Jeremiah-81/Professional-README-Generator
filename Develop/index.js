@@ -41,7 +41,7 @@ const questions = [
   },
   {
     type: "input",
-    name: "Usage",
+    name: "usage",
     message: "What is this application used for?",
   },
   {
@@ -65,7 +65,7 @@ const questions = [
   },
   {
     type: "input",
-    name: "contribution",
+    name: "contributing",
     message:"Explain how other developers can contribute to your project.",
   },
   {
