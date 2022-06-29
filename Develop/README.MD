@@ -15,7 +15,7 @@
   -[Questions](#Questions)
 
   ## Installation:
-  - Inside the terminal type: node index.js
+  - Inside the terminal type: npm install
 
   ## usage:
   - Creating Professional README.md documents.
@@ -27,7 +27,7 @@
   - Create a branch and submit a pull request from gitHub.
 
   ## Tests:
-  - Run this inside the terminal: node index.js
+  - In the terminal type: node index.js
 
   ## Questions:
   - https://github.com/Jeremiah-81/Professional-README-Generator
