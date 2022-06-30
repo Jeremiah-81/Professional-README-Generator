@@ -60,18 +60,18 @@ const questions = [
       "GNU Affero General Public License v3.0",
       "GNU General Public License v2.0",
       "GNU Lesser General Public License v2.1",
-      "None"
+      "None",
     ],
   },
   {
     type: "input",
     name: "contributing",
-    message:"Explain how other developers can contribute to your project.",
+    message: "Explain how other developers can contribute to your project.",
   },
   {
     type: "input",
     name: "tests",
-    message: "Can we run some tests?",     
+    message: "Can we run some tests?",
   },
   {
     type: "list",
@@ -79,7 +79,7 @@ const questions = [
     message: "Contact me if you have any questions.",
     choices: [
       "https://github.com/Jeremiah-81/Professional-README-Generator",
-      "None"
+      "None",
     ],
   },
 ];
@@ -87,10 +87,9 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, generateMarkdown(data), (err) =>
-  err ? console.error(err) : console.log('Too Victory!')
-);
-};
-
+    err ? console.error(err) : console.log("Too Victory!")
+  );
+}
 
 // TODO: Create a function to initialize app
 function init() {

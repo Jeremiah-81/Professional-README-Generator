@@ -45,7 +45,7 @@ function generateMarkdown(data) {
 
   ## Questions:
   - ${data.questions}
-`;  
+`;
 }
 
 module.exports = generateMarkdown;

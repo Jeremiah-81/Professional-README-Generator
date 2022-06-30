@@ -1,33 +1,33 @@
-# Professional README Generator 
+# Professional README Generator
 
+## Description
 
-  ## Description
-  - A how to on creating a professional read me.
+- A how to on creating a professional read me.
 
+## Table of Contents:
 
-  ## Table of Contents:
-  -[Description](#Description)
-  -[Installation](#Installation)
-  -[Usage](#Usage)
-  -[License](#License)
-  -[Contributing](#Contributing)
-  -[tests](#tests)
-  -[Questions](#Questions)
+-[Description](#Description) -[Installation](#Installation) -[Usage](#Usage) -[License](#License) -[Contributing](#Contributing) -[tests](#tests) -[Questions](#Questions)
 
-  ## Installation:
-  - Inside the terminal type: npm install
+## Installation:
 
-  ## usage:
-  - Creating Professional README.md documents.
+- Inside the terminal type: npm install
 
-  ## License:
-  - MIT License
+## usage:
 
-  ## Contributing:
-  - Create a branch and submit a pull request from gitHub.
+- Creating Professional README.md documents.
 
-  ## Tests:
-  - In the terminal type: node index.js
+## License:
 
-  ## Questions:
-  - https://github.com/Jeremiah-81/Professional-README-Generator
+- MIT License
+
+## Contributing:
+
+- Create a branch and submit a pull request from gitHub.
+
+## Tests:
+
+- - In the terminal type: node index.js
+
+## Questions:
+
+- https://github.com/Jeremiah-81/Professional-README-Generator

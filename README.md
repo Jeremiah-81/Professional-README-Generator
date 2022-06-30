@@ -8,6 +8,7 @@ With the ever growing industries things can get confusing trying to keep up with
 
 ## Screenshot
 
+https://raw.githubusercontent.com/Jeremiah-81/Professional-README-Generator/main/assets/Professional%20README.md%20Generator%20screenshot.png
 
 ## Tech/Framework
 
@@ -21,22 +22,12 @@ Inside the terminal type node indewx.js and follow the prompts given in the comm
 
 You can look up a singel employee or an entire department based on what your looking for.
 
+## Walkthrough Video
+
+https://drive.google.com/file/d/1H8IgMFonaPZhR6cEmQI1yNuXcFgEhhxO/view
+
 ## Credits
 
 https://www.makeareadme.com/
 
 ## This README was generated with ❤️ by: Jeremiah Brockett
-
-<!-- ------------command line responses------------- -->
-<!-- Jeremiah
-Brockett
-terracottaarmy81@gmail.com
-Professional README Generator
-Jeremiah-81
-A how to on creating a professional read me.
-Inside the terminal type: node index.js
-Creating Professional README.md documents.
-Create a branch and submit a pull request from gitHub.
-
-   -->
- <!-- [https://github.com/Jeremiah-81/Professional-README-Generator]",  -->
